@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{FE281CDA-7ECA-4425-99D2-350F5643C1CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tomuta-Ionela-Lab11", "Tomuta-Ionela-Lab11\Tomuta-Ionela-Lab11.csproj", "{5EE01FD2-F842-48D8-8D68-9DC830BCC93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE281CDA-7ECA-4425-99D2-350F5643C1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE281CDA-7ECA-4425-99D2-350F5643C1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE281CDA-7ECA-4425-99D2-350F5643C1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE281CDA-7ECA-4425-99D2-350F5643C1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE01FD2-F842-48D8-8D68-9DC830BCC93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE01FD2-F842-48D8-8D68-9DC830BCC93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE01FD2-F842-48D8-8D68-9DC830BCC93D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5EE01FD2-F842-48D8-8D68-9DC830BCC93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE01FD2-F842-48D8-8D68-9DC830BCC93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE01FD2-F842-48D8-8D68-9DC830BCC93D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BF4CFC6-723A-466E-AAE5-31ED9F1BCC20}
+	EndGlobalSection
+EndGlobal
